@@ -1,2 +1,4 @@
 # thesis_code
-thesis_code
+
+準備中
+
